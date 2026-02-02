@@ -1,0 +1,6 @@
+[project]
+name = "simple-test-repo"
+
+[build]
+entrypoint = "dist/bundle.js"
+runtime = "node-22"
